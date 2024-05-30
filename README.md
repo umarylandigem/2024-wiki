@@ -1,3 +1,5 @@
+This is a generic React template. Modify as necessary
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
